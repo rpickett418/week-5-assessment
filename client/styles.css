@@ -1,0 +1,30 @@
+body {
+    background-color: #f2e9e4;
+    font-size: 30px;
+}
+
+button {
+    color:black ;
+    border-radius: 20%;
+    height:50px;
+    justify-content: space-between;
+    margin: 20px;
+    display:block;
+    background-color: #fec601;
+   
+    
+    
+}
+
+button:hover {
+    color: white;
+    background-color: #2364aa;
+    text-decoration: underline;
+    transition: 1.02s;
+    transform: rotate(360deg);
+ 
+}
+
+h2 {
+    color:rgb(5, 42, 66);
+}
